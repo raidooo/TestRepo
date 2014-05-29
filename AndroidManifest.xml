@@ -3,6 +3,8 @@
     package="com.banas.crazytipcalc"
     android:versionCode="1"
     android:versionName="1.0" >
+    
+    <!-- Random comment -->
 
     <uses-sdk
         android:minSdkVersion="8"
